@@ -13,4 +13,4 @@ Welcome to the **Zeraki Sales Agent Dashboard**! This application allows you to 
 - **Axios**
 - **JSON Server** (for local development)
 - **Vercel** (for deployment)
-![Dashboard Screenshot](assets/images/ze.jpg)
+![Dashboard Screenshot](assets/ze.jpg)
