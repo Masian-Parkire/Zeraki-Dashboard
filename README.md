@@ -33,8 +33,10 @@ Node.js and npm installed
 Git installed
 
 ## Installation
+
 Clone the repository:
 https://github.com/Masian-Parkire/Zeraki-Dashboard.git
+
 cd Zeraki-Dashboard
 Install dependencies:
 **npm install**
@@ -44,14 +46,17 @@ Set up JSON Server for local development:
 Create a db.json file in the project root with your initial data:
 
 json
+
 Copy code
+
 {
   "invoices": [],
+  
   "collections": []
 }
 Install JSON Server:
 
-npm install -g json-server
+**npm install -g json-server**
 Start JSON Server:
 
 
