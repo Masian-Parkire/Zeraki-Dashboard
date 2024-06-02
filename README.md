@@ -5,7 +5,7 @@
 Welcome to the **Zeraki Sales Agent Dashboard**! This application allows you to manage sales, track performance, and revolutionize education across Africa.
 
 ## Dashboard's Screenshots and Video 
-
+![Dashboard Screenshot](src/assets/Zeraki Video)
 ![Dashboard Screenshot](src/assets/screen1.png)
 ![Dashboard Screenshot](src/assets/screen2.png)
 ![Dashboard Screenshot](src/assets/screen3.png)
@@ -25,4 +25,4 @@ Welcome to the **Zeraki Sales Agent Dashboard**! This application allows you to 
 - **Axios**
 - **JSON Server** (for local development)
 - **Vercel** (for deployment)
-![Dashboard Screenshot](src/assets/ze.jpg)
+
