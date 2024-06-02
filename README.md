@@ -43,27 +43,27 @@ Git installed
 
 Clone the repository:
 
-https://github.com/Masian-Parkire/Zeraki-Dashboard.git
+`git clone https://github.com/Masian-Parkire/Zeraki-Dashboard.git`
 
-cd Zeraki-Dashboard
+`cd Zeraki-Dashboard`
 
 Install dependencies:
 
-**npm install**
+**`npm install`**
 
 Set up JSON Server for local development:
 
 Install JSON Server:
 
-**npm install -g json-server**
+**`npm install -g json-server`**
 
 Start JSON Server:
 
-json-server --watch db.json --port 3001
+`json-server --watch db.json --port 3001`
 
 Run the application:
 
 
-**npm start**
+**`npm start`**
 
 
