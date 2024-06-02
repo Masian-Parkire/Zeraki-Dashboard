@@ -5,6 +5,7 @@
 Welcome to the **Zeraki Sales Agent Dashboard**! This application allows you to manage sales, track performance, and revolutionize education across Africa.
 
 ## Dashboard's Screenshots and Video 
+
 ![Dashboard Screenshot](src/assets/screen6.png)
 ![Dashboard Screenshot](src/assets/screen5.png)
 ![Dashboard Screenshot](src/assets/screen4.png)
@@ -28,13 +29,17 @@ Visually appealing landing page.
 - **Vercel** (for deployment)
 
 ## Setup Instructions
+
 Prerequisites
+
 Node.js and npm installed
+
 Git installed
 
 ## Installation
 
 Clone the repository:
+
 https://github.com/Masian-Parkire/Zeraki-Dashboard.git
 
 cd Zeraki-Dashboard
