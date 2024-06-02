@@ -17,9 +17,13 @@ Welcome to the **Zeraki Sales Agent Dashboard**! This application allows you to 
 
 ## Features
 Display and manage invoices for each school.
+
 Display a list of schools and their details.
+
 Display and manage collections for each school.
+
 Add, update, and delete invoices and collection records.
+
 Visually appealing landing page.
 
 ## Technologies Used
@@ -52,15 +56,7 @@ Set up JSON Server for local development:
 
 Create a db.json file in the project root with your initial data:
 
-json
 
-Copy code
-
-{
-  "invoices": [],
-  
-  "collections": []
-}
 Install JSON Server:
 
 **npm install -g json-server**
